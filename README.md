@@ -38,11 +38,11 @@
 <!-- tailwind css --> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <!-- bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <!-- react -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <!-- nodejs -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt="nodejs" width="40" height="40"/> </a> 
 <!-- express js  -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/express-original.svg?size=40&color=ffffff" alt="express" width="40" height="40"/> </a> 
 <!-- react native -->
@@ -69,6 +69,8 @@
 <!-- jenkins -->
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <br/>
+<!-- Azure  -->
+<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/azure/original.svg" alt="Microsoft Azure" width="40" height="40"/> </a> 
 <!-- firebase  -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!-- appwrite -->
