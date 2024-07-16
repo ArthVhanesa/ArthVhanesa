@@ -8,8 +8,6 @@
 - 📝 I regularly write articles on [https://arthvhanesa.hashnode.dev](https://arthvhanesa.hashnode.dev)
 
 - 📫 How to reach me **arthbvhanesa2853@gmail.com**
-
-- 🏗️ Building [Formizzy](https://github.com/Formizzy) - An Open-source alternative of Getform. (Currently in private mode)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
